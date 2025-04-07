@@ -1,3 +1,5 @@
+# 💫 About Me:
+I’m a passionate full-stack web developer with a strong focus on PHP, Laravel, and modern frontend technologies like React. I enjoy building impactful web applications that solve real-world problems. Currently, I’m deepening my skills in Laravel and contributing to meaningful projects like SkillLink, a local freelance/job-matching platform. I’m also a 3rd-year Information Systems student, constantly learning and striving to grow as a developer.
 
 
 # 💻 Tech Stack:
