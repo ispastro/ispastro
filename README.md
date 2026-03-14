@@ -36,8 +36,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-<!-- AWS Lambda -->
-<img src="https://raw.githubusercontent.com/aws-icons/aws-icons/main/icons/Arch_Compute/Arch_AWS-Lambda_64.svg" alt="AWS Lambda" width="50" height="50"/>
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
 
 
