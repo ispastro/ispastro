@@ -1,6 +1,24 @@
 # 💫 About Me:
-👋 Hey, I'm Haile<br><br>I'm a Backend Heavy Full Stack Developer passionate about solving real world problems building reliable, scalable systems with and modern tools.<br>I love turning ideas into real-world solutions and exploring how AI can make software smarter
+👋 Hey, I’m Haile
 
+Backend-heavy Full Stack Engineer focused on building scalable, production-grade systems and AI-powered applications.
+
+I don’t just write code — I design systems that solve real problems, handle real users, and deliver real value. From APIs and databases to intelligent agents, I care about performance, reliability, and clean architecture.
+
+⚡ What I do:
+
+Build robust backend systems (APIs, microservices, distributed systems)
+Develop full-stack apps with real-world use cases
+Integrate AI/LLMs as actual product infrastructure (not just hype)
+Ship fast, iterate faster
+
+🧠 Currently focused on:
+
+AI agents & automation systems
+Scalable backend architectures
+Turning ideas into monetizable products
+
+🚀 Goal: Become a top-tier backend & AI engineer by building things that matter.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/haile-asaye21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haileasaye51@gmail.com) 
