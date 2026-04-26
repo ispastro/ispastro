@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Haile Asaye</h1>
-<h3 align="center">Backend-Heavy Full Stack Engineer • Applied AI Engineer</h3>
+<h3 align="center"> Full Stack Engineer • Applied AI Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=I+build+scalable+systems;I+design+AI-powered+products;I+turn+ideas+into+real+software;I+ship+fast+and+iterate+faster" />
