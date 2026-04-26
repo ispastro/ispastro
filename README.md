@@ -59,8 +59,7 @@ Turning ideas into monetizable products
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/google_cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![LangChain](https://img.shields.io/badge/langchain-121212.svg?style=for-the-badge&logo=chainlink&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/llamaindex-000000.svg?style=for-the-badge&logo=meta&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)![LlamaIndex](https://img.shields.io/badge/llamaindex-000000.svg?style=for-the-badge&logo=meta&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/langgraph-1C3C3C.svg?style=for-the-badge&logo=graphql&logoColor=white)
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/> Databases
