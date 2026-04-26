@@ -1,7 +1,7 @@
  # 💫 About Me:
 👋 Hey, I’m Haile
 
-Backend-heavy Full Stack Engineer focused on building scalable, production-grade systems and AI-powered applications.
+Full Stack Engineer focused on building scalable, production-grade systems and AI-powered applications.
 
 I don’t just write code — I design systems that solve real problems, handle real users, and deliver real value. From APIs and databases to intelligent agents, I care about performance, reliability, and clean architecture.
 
