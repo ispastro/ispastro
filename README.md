@@ -89,15 +89,15 @@
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/lobehub/icons@latest/src/assets/logos/langchain/mono.svg" width="48" style="border-radius:8px"/><br/>
+      <img src="https://avatars.githubusercontent.com/u/126733545" width="48" style="border-radius:8px"/><br/>
       <sub><b>LangChain</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/lobehub/icons@latest/src/assets/logos/langgraph/mono.svg" width="48" style="border-radius:8px"/><br/>
+      <img src="https://avatars.githubusercontent.com/u/126733545" width="48" style="border-radius:8px"/><br/>
       <sub><b>LangGraph</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/lobehub/icons@latest/src/assets/logos/langsmith/mono.svg" width="48" style="border-radius:8px"/><br/>
+      <img src="https://avatars.githubusercontent.com/u/126733545" width="48" style="border-radius:8px"/><br/>
       <sub><b>LangSmith</b></sub>
     </td>
     <td align="center" width="110">
