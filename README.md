@@ -92,11 +92,11 @@
       <sub><b>LangChain</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons@latest/icons/langgraph.svg" width="48" style="border-radius:8px"/><br/>
+      <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langsmith.svg" width="48" style="border-radius:8px"/><br/>
       <sub><b>LangGraph</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langsmith.svg" width="48" style="border-radius:8px"/><br/>
+      <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langchain.svg" width="48" style="border-radius:8px"/><br/>
       <sub><b>LangSmith</b></sub>
     </td>
     <td align="center" width="110">
