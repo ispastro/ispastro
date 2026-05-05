@@ -100,7 +100,7 @@
       <sub><b>LangSmith</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/llama-index.svg" width="48" style="border-radius:8px"/><br/>
+      <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons@latest/llama-index/mono.svg" width="48" style="border-radius:8px"/><br/>
       <sub><b>LlamaIndex</b></sub>
     </td>
   </tr>
