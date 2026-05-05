@@ -1,27 +1,40 @@
-# 💫 About Me:
-👋 Hey, I'm Haile
+# 💫 About Me
 
-Full Stack Engineer focused on building scalable, production-grade systems and AI-powered applications.
+### 👋 Hey, I'm Haile
+#### **Applied AI Engineer & Full Stack Engineer**
 
-I don't just write code — I design systems that solve real problems, handle real users, and deliver real value. From APIs and databases to intelligent agents, I care about performance, reliability, and clean architecture.
+> I don't just write code — I build systems that **solve real problems, handle real users, and deliver real value.**
+> From scalable APIs to intelligent agents, I care about **performance, reliability, and clean architecture.**
 
-⚡ **What I do:**
-- Build robust backend systems (APIs, microservices, distributed systems)
-- Develop full-stack apps with real-world use cases
-- Integrate AI/LLMs as actual product infrastructure (not just hype)
-- Design & build **Multi-Agent Systems** with autonomous task orchestration
-- Architect end-to-end **RAG Pipelines** for intelligent, context-aware applications
-- Apply advanced **Prompt Engineering & Prompt Comprehension** to maximize LLM performance
-- Ship fast, iterate faster
+---
 
-🧠 **Currently focused on:**
-- Multi-Agent systems & complex AI workflows
-- RAG pipeline architecture & optimization
-- Prompt Engineering & Prompt Comprehension
-- Scalable backend architectures
-- Turning ideas into monetizable products
+⚡ **What I Do**
 
-🚀 **Goal:** Become a top-tier backend & AI engineer by building things that matter.
+| | |
+|---|---|
+| 🏗️ | Build **robust backend systems** — APIs, microservices, distributed architectures |
+| 🌐 | Develop **full-stack applications** with real-world use cases |
+| 🤖 | Design & deploy **Multi-Agent Systems** with autonomous task orchestration |
+| 🔍 | Architect end-to-end **RAG Pipelines** for intelligent, context-aware applications |
+| 🧪 | Apply advanced **Prompt Engineering & Prompt Compression** to maximize LLM output |
+| ⚙️ | Integrate **AI/LLMs as actual product infrastructure** — not just hype |
+| 🚢 | Ship fast, iterate faster |
+
+---
+
+🧠 **Currently Focused On**
+
+| | |
+|---|---|
+| 🕸️ | Multi-Agent systems & complex AI workflows |
+| 📚 | RAG pipeline architecture & optimization |
+| 💬 | Prompt Engineering & Prompt Compression |
+| 🏛️ | Scalable backend architectures |
+| 💰 | Turning ideas into monetizable products |
+
+---
+
+🚀 **Goal:** Become a top-tier **Applied AI & Backend Engineer** by building things that matter.
 
 ---
 
@@ -70,10 +83,28 @@ I don't just write code — I design systems that solve real problems, handle re
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/google_cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+---
+
+## 🤖 AI / ML
+
+### 🔗 Frameworks & Orchestration
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-F0A500?style=for-the-badge&logo=langchain&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=meta&logoColor=white)
+
+### ⚡ LLM Providers & APIs
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 🧠 Techniques & Libraries
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Compression](https://img.shields.io/badge/Prompt%20Compression-6A0DAD?style=for-the-badge&logo=openai&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-FF6B35?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-00C9A7?style=for-the-badge&logo=probot&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-FF9A00?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ---
 
@@ -81,14 +112,7 @@ I don't just write code — I design systems that solve real problems, handle re
 
 ### 🗄️ Relational & NoSQL
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" alt="DynamoDB" width="50" height="50"/>
-</p>
+<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" alt="DynamoDB" width="50" height="50"/></p>
 
 ### 🧠 Vector Databases
 
