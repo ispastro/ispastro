@@ -89,24 +89,23 @@
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://avatars.githubusercontent.com/u/126733545" width="48" style="border-radius:8px"/><br/>
+      <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons@latest/langchain/mono.svg" width="48" style="border-radius:8px"/><br/>
       <sub><b>LangChain</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://avatars.githubusercontent.com/u/126733545" width="48" style="border-radius:8px"/><br/>
+      <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons@latest/langgraph/mono.svg" width="48" style="border-radius:8px"/><br/>
       <sub><b>LangGraph</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://avatars.githubusercontent.com/u/126733545" width="48" style="border-radius:8px"/><br/>
+      <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons@latest/langsmith/mono.svg" width="48" style="border-radius:8px"/><br/>
       <sub><b>LangSmith</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://avatars.githubusercontent.com/u/130722866" width="48" style="border-radius:8px"/><br/>
+      <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons@latest/llama-index/mono.svg" width="48" style="border-radius:8px"/><br/>
       <sub><b>LlamaIndex</b></sub>
     </td>
   </tr>
 </table>
-
 ### ⚡ LLM Providers & APIs
 
 <table>
