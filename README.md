@@ -9,10 +9,15 @@ I don't just write code — I design systems that solve real problems, handle re
 - Build robust backend systems (APIs, microservices, distributed systems)
 - Develop full-stack apps with real-world use cases
 - Integrate AI/LLMs as actual product infrastructure (not just hype)
+- Design & build **Multi-Agent Systems** with autonomous task orchestration
+- Architect end-to-end **RAG Pipelines** for intelligent, context-aware applications
+- Apply advanced **Prompt Engineering & Prompt Comprehension** to maximize LLM performance
 - Ship fast, iterate faster
 
 🧠 **Currently focused on:**
-- AI agents & automation systems
+- Multi-Agent systems & complex AI workflows
+- RAG pipeline architecture & optimization
+- Prompt Engineering & Prompt Comprehension
 - Scalable backend architectures
 - Turning ideas into monetizable products
 
@@ -66,8 +71,9 @@ I don't just write code — I design systems that solve real problems, handle re
 ![Google Cloud](https://img.shields.io/badge/google_cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=meta&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-F0A500?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=meta&logoColor=white)
 
 ---
 
