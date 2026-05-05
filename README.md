@@ -10,26 +10,23 @@
 
 ⚡ **What I Do**
 
-| | |
-|---|---|
-| 🏗️ | Build **robust backend systems** — APIs, microservices, distributed architectures |
-| 🌐 | Develop **full-stack applications** with real-world use cases |
-| 🤖 | Design & deploy **Multi-Agent Systems** with autonomous task orchestration |
-| 🔍 | Architect end-to-end **RAG Pipelines** for intelligent, context-aware applications |
-| 🧪 | Apply advanced **Prompt Engineering & Prompt Compression** to maximize LLM output |
-| ⚙️ | Integrate **AI/LLMs as actual product infrastructure** — not just hype |
-| 🚢 | Ship fast, iterate faster |
+- 🏗️ Build **robust backend systems** — APIs, microservices, distributed architectures
+- 🌐 Develop **full-stack applications** with real-world use cases
+- 🤖 Design & deploy **Multi-Agent Systems** with autonomous task orchestration
+- 🔍 Architect end-to-end **RAG Pipelines** for intelligent, context-aware applications
+- 🧪 Apply advanced **Prompt Engineering & Prompt Compression** to maximize LLM output
+- ⚙️ Integrate **AI/LLMs as actual product infrastructure** — not just hype
+- 🚢 Ship fast, iterate faster
 
 ---
 
 🧠 **Currently Focused On**
 
-
- 🕸️  Multi-Agent systems & complex AI workflows 
- 📚  RAG pipeline architecture & optimization 
- 💬  Prompt Engineering & Prompt Compression 
- 🏛️  Scalable backend architectures 
- 💰  Turning ideas into monetizable products 
+- 🕸️ Multi-Agent systems & complex AI workflows
+- 📚 RAG pipeline architecture & optimization
+- 💬 Prompt Engineering & Prompt Compression
+- 🏛️ Scalable backend architectures
+- 💰 Turning ideas into monetizable products
 
 ---
 
@@ -82,6 +79,7 @@
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/google_cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ---
 
 ## 🤖 AI / ML
@@ -110,11 +108,14 @@
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/> Databases
 
 ### 🗄️ Relational & NoSQL
-
-<p align=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" alt="DynamoDB" width="50" height="50"/></p>
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
 ### 🧠 Vector Databases
-
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-FF5A5F?style=for-the-badge&logo=weaviate&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF3366?style=for-the-badge&logo=qdrant&logoColor=white)
