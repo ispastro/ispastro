@@ -80,53 +80,27 @@
   <img src="https://skillicons.dev/icons?i=socketio" width="48" title="Socket.io"/>
 </p>
 
+---
+
 ## 🤖 AI / ML
 
 ### 🔗 Frameworks & Orchestration
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langchain.svg" width="48" style="border-radius:8px"/><br/>
-      <sub><b>LangChain</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langsmith.svg" width="48" style="border-radius:8px"/><br/>
-      <sub><b>LangGraph</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langchain.svg" width="48" style="border-radius:8px"/><br/>
-      <sub><b>LangSmith</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons@latest/llama-index/mono.svg" width="48" style="border-radius:8px"/><br/>
-      <sub><b>LlamaIndex</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langchain.svg" width="48" style="border-radius:8px" title="LangChain"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langsmith.svg" width="48" style="border-radius:8px" title="LangGraph"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langchain.svg" width="48" style="border-radius:8px" title="LangSmith"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons@latest/llama-index/mono.svg" width="48" style="border-radius:8px" title="LlamaIndex"/>
+</p>
 
 ### ⚡ LLM Providers & APIs
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://api.iconify.design/simple-icons:openai.svg?color=white" width="48"/><br/>
-      <sub><b>OpenAI</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://api.iconify.design/simple-icons:groq.svg?color=white" width="48"/><br/>
-      <sub><b>Groq</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://api.iconify.design/simple-icons:elevenlabs.svg?color=white" width="48"/><br/>
-      <sub><b>ElevenLabs</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://api.iconify.design/logos:hugging-face-icon.svg" width="48"/><br/>
-      <sub><b>Hugging Face</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://api.iconify.design/simple-icons:openai.svg?color=white" width="48" title="OpenAI"/>&nbsp;
+  <img src="https://api.iconify.design/simple-icons:groq.svg?color=white" width="48" title="Groq"/>&nbsp;
+  <img src="https://api.iconify.design/simple-icons:elevenlabs.svg?color=white" width="48" title="ElevenLabs"/>&nbsp;
+  <img src="https://api.iconify.design/logos:hugging-face-icon.svg" width="48" title="Hugging Face"/>
+</p>
 
 ### 🧠 Techniques & Libraries
 
@@ -153,35 +127,16 @@
 
 ### 🧠 Vector Databases
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/pinecone/white" width="48" style="background:#000; border-radius:8px; padding:8px"/><br/>
-      <sub><b>Pinecone</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/weaviate/white" width="48" style="background:#000; border-radius:8px; padding:8px" onerror="this.src='https://api.iconify.design/logos:weaviate-icon.svg'"/><br/>
-      <sub><b>Weaviate</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/qdrant/white" width="48" style="background:#000; border-radius:8px; padding:8px"/><br/>
-      <sub><b>Qdrant</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/chroma-core/chroma/docs/assets/chroma-logo.svg" width="48" style="background:#fff; border-radius:8px; padding:8px" onerror="this.src='https://api.iconify.design/logos:chroma-icon.svg'"/><br/>
-      <sub><b>ChromaDB</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/milvus/white" width="48" style="background:#000; border-radius:8px; padding:8px"/><br/>
-      <sub><b>Milvus</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/>
-      <sub><b>pgvector</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://api.iconify.design/logos:meta-icon.svg" width="48"/><br/>
-      <sub><b>FAISS</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/pinecone/white" width="48" style="background:#000; border-radius:8px; padding:8px" title="Pinecone"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/weaviate/white" width="48" style="background:#000; border-radius:8px; padding:8px" title="Weaviate"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/qdrant/white" width="48" style="background:#000; border-radius:8px; padding:8px" title="Qdrant"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/chroma-core/chroma/docs/assets/chroma-logo.svg" width="48" style="background:#fff; border-radius:8px; padding:8px" title="ChromaDB"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/milvus/white" width="48" style="background:#000; border-radius:8px; padding:8px" title="Milvus"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" title="pgvector"/>&nbsp;
+  <img src="https://api.iconify.design/logos:meta-icon.svg" width="48" title="FAISS"/>
+</p>
+
+---
+
+> 🚀 **Goal:** Become a top-tier **Applied AI & Backend Engineer** by building things that matter.
