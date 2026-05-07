@@ -112,15 +112,13 @@
 ### 🧠 Vector Databases
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/pinecone/white" width="48" style="background:#000; border-radius:8px; padding:8px" title="Pinecone"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/weaviate/white" width="48" style="background:#000; border-radius:8px; padding:8px" title="Weaviate"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/qdrant/white" width="48" style="background:#000; border-radius:8px; padding:8px" title="Qdrant"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/chroma-core/chroma/docs/assets/chroma-logo.svg" width="48" style="background:#fff; border-radius:8px; padding:8px" title="ChromaDB"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/milvus/white" width="48" style="background:#000; border-radius:8px; padding:8px" title="Milvus"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="48" style="border-radius:8px" title="Pinecone"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/37794290?s=200&v=4" width="48" style="border-radius:8px" title="Weaviate"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/73504361?s=200&v=4" width="48" style="border-radius:8px" title="Qdrant"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" width="48" style="border-radius:8px" title="ChromaDB"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/40518622?s=200&v=4" width="48" style="border-radius:8px" title="Milvus"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=postgres" width="48" title="pgvector"/>&nbsp;
-  <img src="https://api.iconify.design/logos:meta-icon.svg" width="48" title="FAISS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" width="48" style="border-radius:8px" title="FAISS"/>
 </p>
-
----
 
 > 🚀 **Goal:** Become a top-tier **Applied AI & Backend Engineer** by building things that matter.
