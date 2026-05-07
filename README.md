@@ -99,13 +99,26 @@
   <img src="https://cdn.simpleicons.org/elevenlabs/white" width="48" title="ElevenLabs"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" title="Hugging Face"/>
 </p>
-### 🧠 Techniques & Libraries
+### 🧠 Embeddings & Retrieval
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch" width="48" title="PyTorch"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/UKPLab/sentence-transformers/master/docs/img/logo.png" width="48" style="border-radius:8px" title="Sentence Transformers"/>
+<p align="left" style="display:flex; align-items:center; gap:14px; flex-wrap:wrap;">
+
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai.png"
+       width="48"
+       title="OpenAI Embeddings"/>
+
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/cohere-color.png"
+       width="48"
+       title="Cohere"/>
+
+  <img src="https://raw.githubusercontent.com/UKPLab/sentence-transformers/master/docs/img/logo.png"
+       width="48"
+       style="border-radius:8px"
+       title="Sentence Transformers"/>
+
 </p>
 
+**Semantic Search · Embeddings · Retrieval · Reranking · Vector Search**
 **Prompt Engineering · Prompt Compression · RAG Pipelines · Multi-Agent Systems · Sentence Transformers**
 
 ### 🧠 Vector Databases
