@@ -93,8 +93,37 @@
 
 ## 🔗 Frameworks & Orchestration
 
-<p align="left">
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langchain-color.png" width="48" title="LangChain"/><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langgraph-color.png" width="48" title="LangGraph"/><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langsmith-color.png" width="48" title="LangSmith"/> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="48" style="border-radius:8px" title="LlamaIndex"/>
+<p align="left" style="display:flex; align-items:center; gap:18px; flex-wrap:wrap;">
+  <div align="center">
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langchain-color.png"
+         width="52"
+         title="LangChain"/>
+    <br/>
+    <strong>LangChain</strong>
+  </div>
+<div align="center">
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langgraph-color.png"
+         width="52"
+         title="LangGraph"/>
+    <br/>
+    <strong>LangGraph</strong>
+  </div>
+  <div align="center">
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langsmith-color.png"
+         width="52"
+         title="LangSmith"/>
+    <br/>
+    <strong>LangSmith</strong>
+  </div>
+  <div align="center">
+    <img src="https://www.llamaindex.ai/favicon.ico"
+         width="52"
+         style="border-radius:10px"
+         title="LlamaIndex"/>
+    <br/>
+    <strong>LlamaIndex</strong>
+  </div>
+
 </p>
 
 ---
