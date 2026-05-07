@@ -94,8 +94,7 @@
 ### ⚡ LLM Providers & APIs
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/openai/white" width="48" title="OpenAI"/>&nbsp;
-
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai.png" width="48" title="OpenAI"/>
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/claude-color.png" width="48" title="Claude"/>&nbsp;
 
   <img src="https://cdn.simpleicons.org/elevenlabs/white" width="48" title="ElevenLabs"/>&nbsp;
