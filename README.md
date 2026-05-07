@@ -80,7 +80,6 @@
   <img src="https://skillicons.dev/icons?i=socketio" width="48" title="Socket.io"/>
 </p>
 
----
 ## 🤖 AI / ML
 
 ### 🔗 Frameworks & Orchestration
@@ -105,20 +104,21 @@
     </td>
   </tr>
 </table>
+
 ### ⚡ LLM Providers & APIs
 
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://api.iconify.design/logos:openai-icon.svg" width="48"/><br/>
+      <img src="https://api.iconify.design/simple-icons:openai.svg?color=white" width="48"/><br/>
       <sub><b>OpenAI</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://avatars.githubusercontent.com/u/128778958" width="48" style="border-radius:8px"/><br/>
+      <img src="https://api.iconify.design/simple-icons:groq.svg?color=white" width="48"/><br/>
       <sub><b>Groq</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://avatars.githubusercontent.com/u/107903386" width="48" style="border-radius:8px"/><br/>
+      <img src="https://api.iconify.design/simple-icons:elevenlabs.svg?color=white" width="48"/><br/>
       <sub><b>ElevenLabs</b></sub>
     </td>
     <td align="center" width="110">
@@ -156,23 +156,23 @@
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://api.iconify.design/logos:pinecone-icon.svg" width="48"/><br/>
+      <img src="https://api.iconify.design/simple-icons:pinecone.svg?color=white" width="48"/><br/>
       <sub><b>Pinecone</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://avatars.githubusercontent.com/u/37794290" width="48" style="border-radius:8px"/><br/>
+      <img src="https://api.iconify.design/logos:weaviate-icon.svg" width="48"/><br/>
       <sub><b>Weaviate</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://api.iconify.design/logos:qdrant.svg" width="48"/><br/>
+      <img src="https://api.iconify.design/simple-icons:qdrant.svg?color=white" width="48"/><br/>
       <sub><b>Qdrant</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://avatars.githubusercontent.com/u/107513505" width="48" style="border-radius:8px"/><br/>
+      <img src="https://docs.trychroma.com/img/chroma.svg" width="48" style="background:#fff; border-radius:8px; padding:4px"/><br/>
       <sub><b>ChromaDB</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://avatars.githubusercontent.com/u/54395851" width="48" style="border-radius:8px"/><br/>
+      <img src="https://api.iconify.design/simple-icons:milvus.svg?color=white" width="48"/><br/>
       <sub><b>Milvus</b></sub>
     </td>
     <td align="center" width="110">
@@ -185,7 +185,3 @@
     </td>
   </tr>
 </table>
-
----
-
-> 🚀 **Goal:** Become a top-tier **Applied AI & Backend Engineer** by building things that matter.
