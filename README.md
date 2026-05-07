@@ -118,9 +118,9 @@
 
   <img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" width="48" style="border-radius:10px" title="ChromaDB"/>&nbsp;
 
-  <img src="https://milvus.io/favicon.ico" width="48" title="Milvus"/>&nbsp;
+  <img src="https://milvus.io/favicon.ico" width="48" title="Milvus"/>
 
-  <img src="https://skillicons.dev/icons?i=postgres" width="48" title="pgvector"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" title="pgvector"/>
 
   <strong style="font-size:16px;">FAISS</strong>
 </p>
