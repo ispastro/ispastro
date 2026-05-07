@@ -94,10 +94,7 @@
 ## 🔗 Frameworks & Orchestration
 
 <p align="left">
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langchain-color.png" width="48" title="LangChain"/>
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langgraph-color.png" width="48" title="LangGraph"/>
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langsmith-color.png" width="48" title="LangSmith"/>
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="48" style="border-radius:8px" title="LlamaIndex"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langchain-color.png" width="48" title="LangChain"/><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langgraph-color.png" width="48" title="LangGraph"/><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langsmith-color.png" width="48" title="LangSmith"/> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="48" style="border-radius:8px" title="LlamaIndex"/>
 </p>
 
 ---
@@ -116,28 +113,22 @@
 ## 🧠 Embeddings & Retrieval
 
 <p align="left" style="display:flex; align-items:center; gap:14px; flex-wrap:wrap;">
-  
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai.png"
        width="48"
        title="OpenAI Embeddings"/>
-
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/cohere-color.png"
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/cohere-color.png"
        width="48"
        title="Cohere"/>
-
   <img src="https://raw.githubusercontent.com/UKPLab/sentence-transformers/master/docs/img/logo.png"
        width="48"
        style="border-radius:8px"
        title="Sentence Transformers"/>
-
 </p>
-
 <p>
   <strong>
     Semantic Search · Embeddings · Retrieval · Reranking · Vector Search
   </strong>
 </p>
-
 <p>
   <strong>
     Prompt Engineering · Prompt Compression · RAG Pipelines · Multi-Agent Systems
@@ -149,36 +140,28 @@
 ## 🧠 Vector Databases
 
 <p align="left" style="display:flex; align-items:center; gap:14px; flex-wrap:wrap;">
-
   <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4"
        width="48"
        style="border-radius:10px"
        title="Pinecone"/>
-
-  <img src="https://avatars.githubusercontent.com/u/37794290?s=200&v=4"
+ <img src="https://avatars.githubusercontent.com/u/37794290?s=200&v=4"
        width="48"
        style="border-radius:10px"
        title="Weaviate"/>
-
   <img src="https://qdrant.tech/favicon.ico"
        width="48"
        title="Qdrant"/>
-
   <img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4"
        width="48"
        style="border-radius:10px"
        title="ChromaDB"/>
-
   <img src="https://milvus.io/favicon.ico"
        width="48"
        title="Milvus"/>
-
-  <img src="https://skillicons.dev/icons?i=postgres"
+<img src="https://skillicons.dev/icons?i=postgres"
        width="48"
        title="pgvector"/>
-
   <strong style="font-size:16px;">FAISS</strong>
-
 </p>
 
 ---
