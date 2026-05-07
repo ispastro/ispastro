@@ -156,23 +156,23 @@
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://api.iconify.design/simple-icons:pinecone.svg?color=white" width="48"/><br/>
+      <img src="https://cdn.simpleicons.org/pinecone/white" width="48" style="background:#000; border-radius:8px; padding:8px"/><br/>
       <sub><b>Pinecone</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://api.iconify.design/logos:weaviate-icon.svg" width="48"/><br/>
+      <img src="https://cdn.simpleicons.org/weaviate/white" width="48" style="background:#000; border-radius:8px; padding:8px" onerror="this.src='https://api.iconify.design/logos:weaviate-icon.svg'"/><br/>
       <sub><b>Weaviate</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://api.iconify.design/simple-icons:qdrant.svg?color=white" width="48"/><br/>
+      <img src="https://cdn.simpleicons.org/qdrant/white" width="48" style="background:#000; border-radius:8px; padding:8px"/><br/>
       <sub><b>Qdrant</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://docs.trychroma.com/img/chroma.svg" width="48" style="background:#fff; border-radius:8px; padding:4px"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/chroma-core/chroma/docs/assets/chroma-logo.svg" width="48" style="background:#fff; border-radius:8px; padding:8px" onerror="this.src='https://api.iconify.design/logos:chroma-icon.svg'"/><br/>
       <sub><b>ChromaDB</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://api.iconify.design/simple-icons:milvus.svg?color=white" width="48"/><br/>
+      <img src="https://cdn.simpleicons.org/milvus/white" width="48" style="background:#000; border-radius:8px; padding:8px"/><br/>
       <sub><b>Milvus</b></sub>
     </td>
     <td align="center" width="110">
