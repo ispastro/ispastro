@@ -112,7 +112,7 @@
 ### 🧠 Vector Databases
 
 <p align="left">
-  <img src="https://cdn.brandfetch.io/idJj6s-r0M/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="48" title="Pinecone"/>&nbsp;
+  <strong style="font-size:16px;">Pinecone</strong>&nbsp;&nbsp;
 
   <strong style="font-size:16px;">Weaviate</strong>&nbsp;&nbsp;
 
