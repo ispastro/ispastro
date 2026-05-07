@@ -114,17 +114,17 @@
 <p align="left">
   <img src="https://cdn.brandfetch.io/idJj6s-r0M/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="48" title="Pinecone"/>&nbsp;
 
-  <img src="https://cdn.brandfetch.io/idJfYwY3L_/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="48" title="Weaviate"/>&nbsp;
+  <strong style="font-size:16px;">Weaviate</strong>&nbsp;&nbsp;
 
   <img src="https://qdrant.tech/favicon.ico" width="48" title="Qdrant"/>&nbsp;
 
-  <img src="https://www.trychroma.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchroma.d840f629.png&w=256&q=75" width="48" style="border-radius:10px" title="ChromaDB"/>&nbsp;
+  <strong style="font-size:16px;">ChromaDB</strong>&nbsp;&nbsp;
 
   <img src="https://milvus.io/favicon.ico" width="48" title="Milvus"/>&nbsp;
 
   <img src="https://skillicons.dev/icons?i=postgres" width="48" title="pgvector"/>&nbsp;
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Faiss_logo.png" width="48" style="border-radius:8px" title="FAISS"/>
+  <strong style="font-size:16px;">FAISS</strong>
 </p>
 
 > 🚀 **Goal:** Become a top-tier **Applied AI & Backend Engineer** by building things that matter.
