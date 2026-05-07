@@ -112,13 +112,19 @@
 ### 🧠 Vector Databases
 
 <p align="left">
-  <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="48" style="border-radius:8px" title="Pinecone"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/37794290?s=200&v=4" width="48" style="border-radius:8px" title="Weaviate"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/73504361?s=200&v=4" width="48" style="border-radius:8px" title="Qdrant"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" width="48" style="border-radius:8px" title="ChromaDB"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/40518622?s=200&v=4" width="48" style="border-radius:8px" title="Milvus"/>&nbsp;
+  <img src="https://cdn.brandfetch.io/idJj6s-r0M/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="48" title="Pinecone"/>&nbsp;
+
+  <img src="https://cdn.brandfetch.io/idJfYwY3L_/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="48" title="Weaviate"/>&nbsp;
+
+  <img src="https://qdrant.tech/favicon.ico" width="48" title="Qdrant"/>&nbsp;
+
+  <img src="https://www.trychroma.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchroma.d840f629.png&w=256&q=75" width="48" style="border-radius:10px" title="ChromaDB"/>&nbsp;
+
+  <img src="https://milvus.io/favicon.ico" width="48" title="Milvus"/>&nbsp;
+
   <img src="https://skillicons.dev/icons?i=postgres" width="48" title="pgvector"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" width="48" style="border-radius:8px" title="FAISS"/>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Faiss_logo.png" width="48" style="border-radius:8px" title="FAISS"/>
 </p>
 
 > 🚀 **Goal:** Become a top-tier **Applied AI & Backend Engineer** by building things that matter.
