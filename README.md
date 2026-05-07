@@ -97,20 +97,20 @@
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langchain-color.png"
        width="52"
        title="LangChain"/>
-  <strong>&nbsp;LangChain</strong>
+  <strong>LangChain</strong>
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langgraph-color.png"
        width="52"
        title="LangGraph"/>
-  <strong>&nbsp;LangGraph</strong>
+  <strong>LangGraph</strong>
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langsmith-color.png"
        width="52"
        title="LangSmith"/>
-  <strong>&nbsp;LangSmith</strong>
+  <strong>LangSmith</strong>
   <img src="https://www.llamaindex.ai/favicon.ico"
        width="52"
        style="border-radius:10px"
        title="LlamaIndex"/>
-  <strong>&nbsp;LlamaIndex</strong>
+  <strong>LlamaIndex</strong>
 </p>
 ---
 
