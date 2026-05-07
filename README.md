@@ -102,15 +102,12 @@
 ### 🧠 Embeddings & Retrieval
 
 <p align="left" style="display:flex; align-items:center; gap:14px; flex-wrap:wrap;">
-
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai.png"
        width="48"
        title="OpenAI Embeddings"/>
-
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/cohere-color.png"
        width="48"
        title="Cohere"/>
-
   <img src="https://raw.githubusercontent.com/UKPLab/sentence-transformers/master/docs/img/logo.png"
        width="48"
        style="border-radius:8px"
