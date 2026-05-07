@@ -124,5 +124,3 @@
 
   <strong style="font-size:16px;">FAISS</strong>
 </p>
-
-> 🚀 **Goal:** Become a top-tier **Applied AI & Backend Engineer** by building things that matter.
