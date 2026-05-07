@@ -61,11 +61,13 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" width="48" title="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" title="Next.js"/>
   <img src="https://skillicons.dev/icons?i=tailwind" width="48" title="TailwindCSS"/>
   <img src="https://skillicons.dev/icons?i=redux" width="48" title="Redux Toolkit"/>
+  <img src="https://zustand-demo.pmnd.rs/favicon.ico" width="48" title="Zustand"/>
+  <img src="https://tanstack.com/favicon.ico" width="48" title="TanStack Query"/>
   <img src="https://skillicons.dev/icons?i=figma" width="48" title="Figma"/>
   <img src="https://skillicons.dev/icons?i=vercel" width="48" title="Vercel"/>
-  <img src="https://skillicons.dev/icons?i=netlify" width="48" title="Netlify"/>
 </p>
 
 ---
