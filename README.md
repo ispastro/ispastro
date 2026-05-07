@@ -81,50 +81,34 @@
 </p>
 
 ---
-
 ## 🤖 AI / ML
 
 ### 🔗 Frameworks & Orchestration
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langchain.svg" width="48" style="border-radius:8px" title="LangChain"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langsmith.svg" width="48" style="border-radius:8px" title="LangGraph"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langchain.svg" width="48" style="border-radius:8px" title="LangSmith"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons@latest/llama-index/mono.svg" width="48" style="border-radius:8px" title="LlamaIndex"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langchain-color.png" width="48" title="LangChain"/>&nbsp;
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langgraph-color.png" width="48" title="LangGraph"/>&nbsp;
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langsmith-color.png" width="48" title="LangSmith"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="48" style="border-radius:8px" title="LlamaIndex"/>
 </p>
 
 ### ⚡ LLM Providers & APIs
 
 <p align="left">
-  <img src="https://api.iconify.design/simple-icons:openai.svg?color=white" width="48" title="OpenAI"/>&nbsp;
-  <img src="https://api.iconify.design/simple-icons:groq.svg?color=white" width="48" title="Groq"/>&nbsp;
-  <img src="https://api.iconify.design/simple-icons:elevenlabs.svg?color=white" width="48" title="ElevenLabs"/>&nbsp;
-  <img src="https://api.iconify.design/logos:hugging-face-icon.svg" width="48" title="Hugging Face"/>
+  <img src="https://cdn.simpleicons.org/openai/white" width="48" title="OpenAI"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/groq/white" width="48" title="Groq"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/elevenlabs/white" width="48" title="ElevenLabs"/>&nbsp;
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" title="Hugging Face"/>
 </p>
 
 ### 🧠 Techniques & Libraries
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch" width="48" title="PyTorch / Sentence Transformers"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" width="48" title="PyTorch"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/UKPLab/sentence-transformers/master/docs/img/logo.png" width="48" style="border-radius:8px" title="Sentence Transformers"/>
 </p>
 
 **Prompt Engineering · Prompt Compression · RAG Pipelines · Multi-Agent Systems · Sentence Transformers**
-
----
-
-## 🗄️ Databases
-
-### Relational & NoSQL
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" width="48" title="PostgreSQL"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" width="48" title="MongoDB"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" title="MySQL"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=redis" width="48" title="Redis"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=sqlite" width="48" title="SQLite"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=dynamodb" width="48" title="DynamoDB"/>
-</p>
-
 ### 🧠 Vector Databases
 
 <p align="left">
