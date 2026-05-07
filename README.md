@@ -110,17 +110,17 @@
 ### 🧠 Vector Databases
 
 <p align="left">
-  <strong style="font-size:16px;">Pinecone</strong>&nbsp;&nbsp;
+  <strong style="font-size:16px;">Pinecone</strong>
 
-  <strong style="font-size:16px;">Weaviate</strong>&nbsp;&nbsp;
+  <strong style="font-size:16px;">Weaviate</strong>
 
-  <img src="https://qdrant.tech/favicon.ico" width="48" title="Qdrant"/>&nbsp;
+  <img src="https://qdrant.tech/favicon.ico" width="48" title="Qdrant"/>
 
-  <strong style="font-size:16px;">ChromaDB</strong>&nbsp;&nbsp;
+  <strong style="font-size:16px;">ChromaDB</strong>
 
-  <img src="https://milvus.io/favicon.ico" width="48" title="Milvus"/>&nbsp;
+  <img src="https://milvus.io/favicon.ico" width="48" title="Milvus"/>
 
-  <img src="https://skillicons.dev/icons?i=postgres" width="48" title="pgvector"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" title="pgvector"/>
 
   <strong style="font-size:16px;">FAISS</strong>
 </p>
