@@ -95,9 +95,14 @@
 ### ⚡ LLM Providers & APIs
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/openai/white" width="48" title="OpenAI"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/groq/white" width="48" title="Groq"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/elevenlabs/white" width="48" title="ElevenLabs"/>&nbsp;
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/openai.png" width="48" title="OpenAI"/>&nbsp;
+
+  <img src="https://mintlify.s3.us-west-1.amazonaws.com/groq/images/logo.png" width="48" style="border-radius:8px" title="Groq"/>&nbsp;
+
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/claude-color.png" width="48" title="Claude"/>&nbsp;
+
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/elevenlabs.png" width="48" title="ElevenLabs"/>&nbsp;
+
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" title="Hugging Face"/>
 </p>
 
