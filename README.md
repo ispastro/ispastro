@@ -110,7 +110,7 @@
 ### 🧠 Vector Databases
 
 <p align="left">
-  <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="48" style="border-radius:10px" title="Pinecone"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="48" style="border-radius:10px" title="Pinecone"/>
 
   <img src="https://avatars.githubusercontent.com/u/37794290?s=200&v=4" width="48" style="border-radius:10px" title="Weaviate"/>&nbsp;
 
