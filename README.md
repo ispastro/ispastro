@@ -1,47 +1,20 @@
 <h1 align="center">Hi, I'm Haile 👋</h1>
 
-<h3 align="center">
-  Applied AI Engineer • Full Stack Engineer
-</h3>
-
 <p align="center">
-  Building AI-powered products, scalable backend systems, and production-ready software.
+  <strong>Applied AI Engineer • Full Stack Engineer</strong>
 </p>
 
 <p align="center">
   <a href="https://haileasaye.me">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-
   <a href="https://linkedin.com/in/haile-asaye21">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
   <a href="mailto:haileasaye51@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
----
-
-## 🚀 What I Build
-
-- 🤖 AI Agents & Multi-Agent Systems
-- 🧠 RAG & Retrieval Pipelines
-- ⚙️ Scalable Backend APIs
-- 🌐 Full Stack Applications
-- ☁️ Cloud-Native Systems
-- 🚀 AI Products
-
----
-
-## 🎯 Currently Exploring
-
-- Advanced Agentic AI
-- AI Workflow Orchestration
-- Distributed Backend Systems
-- Retrieval Optimization
-- Production LLM Infrastructure
 
 ---
 
@@ -84,10 +57,6 @@
   <img src="https://raw.githubusercontent.com/UKPLab/sentence-transformers/master/docs/img/logo.png" width="48" title="Sentence Transformers"/>
 </p>
 
-<p>
-  <strong>LLMs • RAG • AI Agents</strong>
-</p>
-
 ---
 
 ## ☁️ Infrastructure & Data
@@ -112,5 +81,5 @@
 ---
 
 <p align="center">
-  🌱 <strong>Always learning. Always building. Always pushing the boundaries of Applied AI.</strong>
+  🌱 <strong>Always learning • Always building</strong>
 </p>
