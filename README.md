@@ -1,25 +1,43 @@
+<div align="center">
+
 # Haile Asaye
 
-Software engineer building with AI. Based in Ethiopia.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6B7280&center=true&vCenter=true&width=440&lines=building+with+AI;shipping+full-stack+products;always+learning" alt="typing" />
 
 [Portfolio](https://haileasaye.me) · [LinkedIn](https://linkedin.com/in/haile-asaye21) · [Email](mailto:haileasaye51@gmail.com)
 
----
+</div>
 
-### Stack
+<br/>
 
-**Languages** — Python, TypeScript, JavaScript, PHP
+```
+> whoami
+Software engineer based in Ethiopia,
+building products at the intersection
+of full-stack development and AI.
+```
 
-**Frontend** — React, Next.js, Tailwind CSS, Redux Toolkit, Zustand, TanStack Query
+<br/>
 
-**Backend** — Node.js, Express, FastAPI, NestJS, Laravel
+### Languages
+<img src="https://skillicons.dev/icons?i=python,ts,js,php" height="42"/>
 
-**AI / ML** — LangChain, LangGraph, LangSmith, LlamaIndex, OpenAI, Claude, Cohere, Hugging Face, ElevenLabs, Sentence Transformers
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" height="42"/>
 
-**Data & Infra** — PostgreSQL / pgvector, Pinecone, Weaviate, Qdrant, ChromaDB, Milvus, Docker, AWS, GCP
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nestjs,laravel" height="42"/>
 
-**Tools** — Git, GitHub, Postman, Socket.IO, Vercel
+### AI / ML
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langchain-color.png" height="42"/> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langgraph-color.png" height="42"/> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai.png" height="42"/> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/claude-color.png" height="42"/> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="42"/>
 
----
+### Data & Infra
+<img src="https://skillicons.dev/icons?i=postgres,docker,aws,gcp,git,github" height="42"/>
 
-Open to interesting problems — reach out.
+<br/>
+
+<div align="center">
+
+*Open to interesting problems — reach out.*
+
+</div>
