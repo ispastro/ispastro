@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Haile 👋</h1>
 
 <p align="center">
-  <strong>Applied AI Engineer • Full Stack Engineer</strong>
+  <strong>Always learning • Always building</strong>
 </p>
 
 <p align="center">
@@ -80,6 +80,4 @@
 
 ---
 
-<p align="center">
-  🌱 <strong>Always learning • Always building</strong>
-</p>
+
