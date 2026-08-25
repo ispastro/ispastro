@@ -2,8 +2,7 @@
 
 # Haile Asaye
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6B7280&center=true&vCenter=true&width=440&lines=fast+delivery%2C+no+excuses;deadlines+met%2C+not+missed;available+now" alt="typing" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6B7280&center=true&vCenter=true&width=440&lines=AI+Systems+Engineer;Full+Stack+Engineer" alt="typing" />
 [Portfolio](https://haileasaye.me) · [LinkedIn](https://linkedin.com/in/haile-asaye21) · [Email](mailto:haileasaye51@gmail.com)
 
 </div>
