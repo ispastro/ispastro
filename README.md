@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1299" height="656" alt="image" src="https://github.com/user-attachments/assets/9f685e89-f15f-4c7a-8c32-1a49c83cd019" />
+<img width="1299" height="656" alt="image" src="https://github.com/user-attachments/assets/00655611-b3f0-439a-b11d-8b21c4d50894" />
 
 # Haile Asaye
 
