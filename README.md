@@ -1,4 +1,5 @@
 <div align="center">
+<img width="1299" height="656" alt="image" src="https://github.com/user-attachments/assets/9f685e89-f15f-4c7a-8c32-1a49c83cd019" />
 
 # Haile Asaye
 
