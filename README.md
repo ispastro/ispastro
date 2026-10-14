@@ -8,12 +8,6 @@
 
 </div>
 
-<br/>
-
-Closing the gap between AI prototypes and production-ready systems.
-
-<br/>
-
 ### Languages & Frontend
 
 <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind" height="40" />
