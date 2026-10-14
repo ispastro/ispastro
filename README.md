@@ -3,7 +3,7 @@
 
 # Haile Asaye
 
-**AI Systems Engineer · Full Stack Engineer**
+** Full Stack AI Software  Engineer**
 
 [Portfolio](https://haileasaye.me) · [LinkedIn](https://linkedin.com/in/haile-asaye21) · [Email](mailto:haileasaye51@gmail.com)
 
