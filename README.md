@@ -1,9 +1,8 @@
 <div align="center">
 
-
 # Haile Asaye
 
-** Full Stack AI Software  Engineer**
+**Full-Stack & AI Engineer**
 
 [Portfolio](https://haileasaye.me) · [LinkedIn](https://linkedin.com/in/haile-asaye21) · [Email](mailto:haileasaye51@gmail.com)
 
@@ -16,16 +15,20 @@ Closing the gap between AI prototypes and production-ready systems.
 <br/>
 
 ### Languages & Frontend
-<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind" height="40"/>
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind" height="40" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel" height="40"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel" height="40" />
 
 ### AI / ML
-LangChain · LangGraph · OpenAI · Claude · RAG Pipelines · Vector Search
 
-### Data & Infra
-<img src="https://skillicons.dev/icons?i=postgres,docker,aws,git,github" height="40"/>
+LangChain · LangGraph · OpenAI · Claude · RAG Pipelines · Vector Search · Voice AI · AI Voice Agents
+
+### Data & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,docker,aws,git,github" height="40" />
 
 <br/>
 
